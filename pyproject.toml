@@ -14,4 +14,4 @@ readme = "README.md"
 # license = "Custom / Non modifiable for Commercial use."
 
 [tool.hatch.build.targets.wheel]
-packages = ["SimpleGeometry"]
+packages = ["SimpleGeometryCalc"]
