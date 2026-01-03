@@ -7,4 +7,6 @@ A simple python library to calculate variables of shapes with only one input.
 
 now hopefully available via pip install SimpleGeometryCalc
 
+https://pypi.org/project/SimpleGeometryCalc/#description
+
 :pray:
